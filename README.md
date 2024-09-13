@@ -1,6 +1,7 @@
 # End-to-End-Machine-Learning-Pipeline-Project
 This repository contains the code for an end-to-end machine learning pipeline, including data cleaning, model building, model saving and loading, FastAPI endpoint creation, and deployment on Hugging Face with a simple UI using Gradio or Streamlit.
-Project Structure
+# Project Structure
+
 The project is organized into separate folders for each part of the assignment:
 data_cleaning: Contains the script for data cleaning and preprocessing.
 model train: Contains the script for building and evaluating the machine learning model.
